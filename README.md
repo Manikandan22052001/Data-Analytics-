@@ -1,2 +1,2 @@
-# Data-Analytics-Projects
-My Data Analytics project report 
+# Data Analytics projects 
+My SQL code sample projects
